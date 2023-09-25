@@ -1,6 +1,6 @@
 # GitHub Bootcamp - Workshop
 
-test entry
+test entry with ignore
 Repo for the `GitHub Bootcamp` 1-day Workshop from @wulfland.
 
 ## 👉 Introduction
